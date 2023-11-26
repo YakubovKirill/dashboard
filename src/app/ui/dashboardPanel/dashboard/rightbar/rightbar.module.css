@@ -44,7 +44,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    background-color: #5d57c9;
+    background-color: var(--mainBtn);
     color: white;
     border: none;
     border-radius: var(--borderRadius);

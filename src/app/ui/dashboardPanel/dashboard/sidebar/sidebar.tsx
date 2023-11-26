@@ -3,7 +3,7 @@ import { MdLogout } from 'react-icons/md';
 import Image from 'next/image';
 
 import MenuLink from './menuLink/menuLink';
-import { menuItems } from '../../../data';
+import { menuItems } from '../../../../data';
 
 import styles from './sidebar.module.css';
 

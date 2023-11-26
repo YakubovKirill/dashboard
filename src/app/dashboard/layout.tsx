@@ -1,9 +1,9 @@
 import React from 'react';
 
-import { Navbar } from '../ui/dashboard/navbar/navbar';
-import { Sidebar } from '../ui/dashboard/sidebar/sidebar';
+import { Navbar } from '../ui/dashboardPanel/dashboard/navbar/navbar';
+import { Sidebar } from '../ui/dashboardPanel/dashboard/sidebar/sidebar';
 
-import styles from '../ui/dashboard/dashboard.module.css';
+import styles from '../ui/dashboardPanel/dashboard/dashboard.module.css';
 
 type DashboardLayoutProps = {
     children: React.ReactNode

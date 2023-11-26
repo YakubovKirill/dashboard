@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: var(--bgSoftHover);
+    padding: 10px;
+    border-radius: var(--borderRadius);
+}
+
+.input {
+    background-color: transparent;
+    border: none;
+    color: var(--text);
+}

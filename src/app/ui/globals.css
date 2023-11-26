@@ -6,6 +6,9 @@
   --bg: #151c2c;
   --bgSoft: #182237;
   --bgSoftHover: #2e374a;
+  --mainBtn: #5d57c9;
+  --secondaryBtn: rgba(112, 112, 112, 0.777);
+  --secondaryBtnDisabled: rgba(61, 61, 61, 0.546);
   --text: white;
   --textSoft: #b7bac1;
   --borderRadius: 5px;

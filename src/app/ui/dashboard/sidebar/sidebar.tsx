@@ -1,4 +1,5 @@
 import React from 'react';
+import { MdLogout } from 'react-icons/md';
 import Image from 'next/image';
 
 import MenuLink from './menuLink/menuLink';
@@ -34,6 +35,10 @@ export const Sidebar = () => {
                     </li>
                 ))}
             </ul>
+            <button className={styles.logout}>
+                <MdLogout />
+                Logout
+            </button>
         </div>
     );
 };
